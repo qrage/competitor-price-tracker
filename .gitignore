@@ -1,0 +1,23 @@
+# Environments
+.env
+.venv/
+venv/
+env/
+
+# Python cache
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Secrets
+service_account.json
+
+# Local exports
+*.csv
+
+# IDE
+.vscode/
+.idea/
+
+# OS
+Thumbs.db
